@@ -7,7 +7,7 @@ E-mail: martin.trulsson@teokem.lu.se
 # Prerequisites
 
 No prior knowledge in Python is required, but familiarity with programming concepts is helpful.
-A laptop connected to the internet (eduroam, for example) and running Unix, MacOS, or Windows and with Anaconda installed, see below.
+A laptop connected to the internet (eduroam, for example) and running Unix, MacOS, or Windows and with Python installed, see below.
 If you have little experience with Python or shell programming, the following two tutorials may be helpful:
 
 https://swcarpentry.github.io/shell-novice

@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trulle82/BraggWilliams/HEAD?labpath=BraggWilliams.ipynb)
+
 # BraggWilliams
 Lattice simulator, testing the Bragg-Williams approximation
 

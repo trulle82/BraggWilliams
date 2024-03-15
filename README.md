@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trulle82/BraggWilliams/HEAD?labpath=BraggWilliams.ipynb)
 
 # BraggWilliams
-Lattice simulator, testing the Bragg-Williams approximation
+Lattice simulator, testing the Bragg-Williams approximation (re-adapted from the Ising model from https://github.com/rajeshrinet/compPhy) 
 
 Author: Martin Trulsson
 E-mail: martin.trulsson@compchem.lu.se
